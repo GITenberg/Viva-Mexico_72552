@@ -1,5 +1,8 @@
 _repo: Viva-Mexico_72552
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72552-h/images/cover.jpg
 creator:
   author:
     agent_name: Flandrau, Charles Macomb
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42959
     wikipedia: https://en.wikipedia.org/wiki/Charles_Macomb_Flandrau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72552#Viva-Mexico
 gutenberg_issued: '2023-12-30'
 gutenberg_type: Text
 identifiers:
